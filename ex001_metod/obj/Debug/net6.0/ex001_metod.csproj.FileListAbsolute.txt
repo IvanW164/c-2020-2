@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\bin\Debug\net6.0\ex001_metod.exe
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\bin\Debug\net6.0\ex001_metod.deps.json
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\bin\Debug\net6.0\ex001_metod.runtimeconfig.json
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\bin\Debug\net6.0\ex001_metod.dll
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\bin\Debug\net6.0\ref\ex001_metod.dll
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\bin\Debug\net6.0\ex001_metod.pdb
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.AssemblyInfo.cs
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.dll
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ref\ex001_metod.dll
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.pdb
+C:\Users\User\Desktop\курс\с#\2022\вторая лекция\ex001_metod\obj\Debug\net6.0\ex001_metod.genruntimeconfig.cache
